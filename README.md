@@ -5,9 +5,9 @@ A sketch of toolbox for the quantitatativa analysis of mass-spectra. They were w
 There is no installer, you would simply use git-clone , and install required dependencies manually. 
 
 # Demo
-In order to get going, there is a demo that can be found at
+In order to get going, there is a demo that can be found as an ipython notebook at
 
-[https://github.com/ChristianGeng/MStools/blob/master/demo.ipynb](https://github.com/ChristianGeng/MStools/blob/master/Demo - Extraction of Energy Peaks in Speech and Mass-Spectrometry.ipynb)
+[https://github.com/ChristianGeng/MStools/blob/master/Demo - Extraction of Energy Peaks in Speech and Mass-Spectrometry.ipynb](https://github.com/ChristianGeng/MStools/blob/master/Demo - Extraction of Energy Peaks in Speech and Mass-Spectrometry.ipynb)
 
 There, first, a standard approach is implemented and described as a baseline.
 
