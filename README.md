@@ -7,7 +7,7 @@ There is no installer, you would simply use git-clone , and install required dep
 # Demo
 In order to get going, there is a demo that can be found at
 
-[https://github.com/ChristianGeng/MStools/blob/master/demo.ipynb](https://github.com/ChristianGeng/MStools/blob/master/demo.ipynb)
+[https://github.com/ChristianGeng/MStools/blob/master/demo.ipynb](https://github.com/ChristianGeng/MStools/blob/master/Demo - Extraction of Energy Peaks in Speech and Mass-Spectrometry.ipynb)
 
 There, first, a standard approach is implemented and described as a baseline.
 
